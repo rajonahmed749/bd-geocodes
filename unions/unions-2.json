@@ -1,0 +1,602 @@
+[
+    {
+        "id": "1",
+        "name": "Subil",
+        "bn_name": "সুবিল",
+        "value": "Subil"
+    },
+    {
+        "id": "2",
+        "name": "North Gunaighor",
+        "bn_name": "উত্তর গুনাইঘর",
+        "value": "North Gunaighor"
+    },
+    {
+        "id": "3",
+        "name": "South Gunaighor",
+        "bn_name": "দক্ষিণ গুনাইঘর",
+        "value": "South Gunaighor"
+    },
+    {
+        "id": "4",
+        "name": "Boroshalghor",
+        "bn_name": "বড়শালঘর",
+        "value": "Boroshalghor"
+    },
+    {
+        "id": "5",
+        "name": "Rajameher",
+        "bn_name": "রাজামেহার",
+        "value": "Rajameher"
+    },
+    {
+        "id": "6",
+        "name": "Yousufpur",
+        "bn_name": "ইউসুফপুর",
+        "value": "Yousufpur"
+    },
+    {
+        "id": "7",
+        "name": "Rasulpur",
+        "bn_name": "রসুলপুর",
+        "value": "Rasulpur"
+    },
+    {
+        "id": "8",
+        "name": "Fatehabad",
+        "bn_name": "ফতেহাবাদ",
+        "value": "Fatehabad"
+    },
+    {
+        "id": "9",
+        "name": "Elahabad",
+        "bn_name": "এলাহাবাদ",
+        "value": "Elahabad"
+    },
+    {
+        "id": "10",
+        "name": "Jafargonj",
+        "bn_name": "জাফরগঞ্জ",
+        "value": "Jafargonj"
+    },
+    {
+        "id": "11",
+        "name": "Dhampti",
+        "bn_name": "ধামতী",
+        "value": "Dhampti"
+    },
+    {
+        "id": "12",
+        "name": "Mohanpur",
+        "bn_name": "মোহনপুর",
+        "value": "Mohanpur"
+    },
+    {
+        "id": "13",
+        "name": "Vani",
+        "bn_name": "ভানী",
+        "value": "Vani"
+    },
+    {
+        "id": "14",
+        "name": "Barkamta",
+        "bn_name": "বরকামতা",
+        "value": "Barkamta"
+    },
+    {
+        "id": "15",
+        "name": "Sultanpur",
+        "bn_name": "সুলতানপুর",
+        "value": "Sultanpur"
+    },
+    {
+        "id": "16",
+        "name": "Aganagar",
+        "bn_name": "আগানগর",
+        "value": "Aganagar"
+    },
+    {
+        "id": "17",
+        "name": "Bhabanipur",
+        "bn_name": "ভবানীপুর",
+        "value": "Bhabanipur"
+    },
+    {
+        "id": "18",
+        "name": "North Khoshbas",
+        "bn_name": "উত্তর খোশবাস",
+        "value": "North Khoshbas"
+    },
+    {
+        "id": "19",
+        "name": "South Khoshbas",
+        "bn_name": "দক্ষিন খোশবাস",
+        "value": "South Khoshbas"
+    },
+    {
+        "id": "20",
+        "name": "Jhalam",
+        "bn_name": "ঝলম",
+        "value": "Jhalam"
+    },
+    {
+        "id": "21",
+        "name": "Chitodda",
+        "bn_name": "চিতড্ডা",
+        "value": "Chitodda"
+    },
+    {
+        "id": "22",
+        "name": "North Shilmuri",
+        "bn_name": "উত্তর শিলমুড়ি",
+        "value": "North Shilmuri"
+    },
+    {
+        "id": "23",
+        "name": "South Shilmuri",
+        "bn_name": "দক্ষিন শিলমুড়ি",
+        "value": "South Shilmuri"
+    },
+    {
+        "id": "24",
+        "name": "Galimpur",
+        "bn_name": "গালিমপুর",
+        "value": "Galimpur"
+    },
+    {
+        "id": "25",
+        "name": "Shakpur",
+        "bn_name": "শাকপুর",
+        "value": "Shakpur"
+    },
+    {
+        "id": "26",
+        "name": "Bhaukshar",
+        "bn_name": "ভাউকসার",
+        "value": "Bhaukshar"
+    },
+    {
+        "id": "27",
+        "name": "Adda",
+        "bn_name": "আড্ডা",
+        "value": "Adda"
+    },
+    {
+        "id": "28",
+        "name": "Adra",
+        "bn_name": "আদ্রা",
+        "value": "Adra"
+    },
+    {
+        "id": "29",
+        "name": "Payalgacha",
+        "bn_name": "পয়ালগাছা",
+        "value": "Payalgacha"
+    },
+    {
+        "id": "30",
+        "name": "Laxmipur",
+        "bn_name": "লক্ষীপুর",
+        "value": "Laxmipur"
+    },
+    {
+        "id": "31",
+        "name": "Shidli",
+        "bn_name": "শিদলাই",
+        "value": "Shidli"
+    },
+    {
+        "id": "32",
+        "name": "Chandla",
+        "bn_name": "চান্দলা",
+        "value": "Chandla"
+    },
+    {
+        "id": "33",
+        "name": "Shashidal",
+        "bn_name": "শশীদল",
+        "value": "Shashidal"
+    },
+    {
+        "id": "34",
+        "name": "Dulalpur",
+        "bn_name": "দুলালপুর",
+        "value": "Dulalpur"
+    },
+    {
+        "id": "35",
+        "name": "Brahmanpara Sadar",
+        "bn_name": "ব্রাহ্মনপাড়া সদর",
+        "value": "Brahmanpara Sadar"
+    },
+    {
+        "id": "36",
+        "name": "Shahebabad",
+        "bn_name": "সাহেবাবাদ",
+        "value": "Shahebabad"
+    },
+    {
+        "id": "37",
+        "name": "Malapara",
+        "bn_name": "মালাপাড়া",
+        "value": "Malapara"
+    },
+    {
+        "id": "38",
+        "name": "Madhabpur",
+        "bn_name": "মাধবপুর",
+        "value": "Madhabpur"
+    },
+    {
+        "id": "39",
+        "name": "Shuhilpur",
+        "bn_name": "সুহিলপুর",
+        "value": "Shuhilpur"
+    },
+    {
+        "id": "40",
+        "name": "Bataghashi",
+        "bn_name": "বাতাঘাসি",
+        "value": "Bataghashi"
+    },
+    {
+        "id": "41",
+        "name": "Joag",
+        "bn_name": "জোয়াগ",
+        "value": "Joag"
+    },
+    {
+        "id": "42",
+        "name": "Borcarai",
+        "bn_name": "বরকরই",
+        "value": "Borcarai"
+    },
+    {
+        "id": "43",
+        "name": "Madhaiya",
+        "bn_name": "মাধাইয়া",
+        "value": "Madhaiya"
+    },
+    {
+        "id": "44",
+        "name": "Dollai Nowabpur",
+        "bn_name": "দোল্লাই নবাবপুর",
+        "value": "Dollai Nowabpur"
+    },
+    {
+        "id": "45",
+        "name": "Mohichial",
+        "bn_name": "মহিচাইল",
+        "value": "Mohichial"
+    },
+    {
+        "id": "46",
+        "name": "Gollai",
+        "bn_name": "গল্লাই",
+        "value": "Gollai"
+    },
+    {
+        "id": "47",
+        "name": "Keronkhal",
+        "bn_name": "কেরণখাল",
+        "value": "Keronkhal"
+    },
+    {
+        "id": "48",
+        "name": "Maijkhar",
+        "bn_name": "মাইজখার",
+        "value": "Maijkhar"
+    },
+    {
+        "id": "49",
+        "name": "Etberpur",
+        "bn_name": "এতবারপুর",
+        "value": "Etberpur"
+    },
+    {
+        "id": "50",
+        "name": "Barera",
+        "bn_name": "বাড়েরা",
+        "value": "Barera"
+    },
+    {
+        "id": "51",
+        "name": "Borcoit",
+        "bn_name": "বরকইট",
+        "value": "Borcoit"
+    },
+    {
+        "id": "52",
+        "name": "Sreepur",
+        "bn_name": "শ্রীপুর",
+        "value": "Sreepur"
+    },
+    {
+        "id": "53",
+        "name": "Kashinagar",
+        "bn_name": "কাশিনগর",
+        "value": "Kashinagar"
+    },
+    {
+        "id": "54",
+        "name": "Kalikapur",
+        "bn_name": "কালিকাপুর",
+        "value": "Kalikapur"
+    },
+    {
+        "id": "55",
+        "name": "Shuvapur",
+        "bn_name": "শুভপুর",
+        "value": "Shuvapur"
+    },
+    {
+        "id": "56",
+        "name": "Ghulpasha",
+        "bn_name": "ঘোলপাশা",
+        "value": "Ghulpasha"
+    },
+    {
+        "id": "57",
+        "name": "Kulpasha",
+        "bn_name": "কুলপাশা",
+        "value": "Kulpasha"
+    },
+    {
+        "id": "58",
+        "name": "Dakatia",
+        "bn_name": "ডাকাতিয়া",
+        "value": "Dakatia"
+    },
+    {
+        "id": "59",
+        "name": "Gala",
+        "bn_name": "গলা",
+        "value": "Gala"
+    },
+    {
+        "id": "60",
+        "name": "Manderbari",
+        "bn_name": "মান্দেরবাড়ী",
+        "value": "Manderbari"
+    },
+    {
+        "id": "61",
+        "name": "Pirgacha",
+        "bn_name": "পীরগাছা",
+        "value": "Pirgacha"
+    },
+    {
+        "id": "62",
+        "name": "Arjuntala",
+        "bn_name": "অর্জুনতলা",
+        "value": "Arjuntala"
+    },
+    {
+        "id": "63",
+        "name": "Fatehpur",
+        "bn_name": "ফতেপুর",
+        "value": "Fatehpur"
+    },
+    {
+        "id": "64",
+        "name": "Doril",
+        "bn_name": "ডোরিল",
+        "value": "Doril"
+    },
+    {
+        "id": "65",
+        "name": "Puran Bharenga",
+        "bn_name": "পুরান ভারেঙ্গা",
+        "value": "Puran Bharenga"
+    },
+    {
+        "id": "66",
+        "name": "Char Bharenga",
+        "bn_name": "চর ভারেঙ্গা",
+        "value": "Char Bharenga"
+    },
+    {
+        "id": "67",
+        "name": "Kumira",
+        "bn_name": "কুমিরা",
+        "value": "Kumira"
+    },
+    {
+        "id": "68",
+        "name": "Sthal",
+        "bn_name": "স্থল",
+        "value": "Sthal"
+    },
+    {
+        "id": "69",
+        "name": "Shantiram",
+        "bn_name": "শান্তিরাম",
+        "value": "Shantiram"
+    },
+    {
+        "id": "70",
+        "name": "Bishalpur",
+        "bn_name": "বিশালপুর",
+        "value": "Bishalpur"
+    },
+    {
+        "id": "71",
+        "name": "East Mohammadpur",
+        "bn_name": "পুর্ব মোহাম্মদপুর",
+        "value": "East Mohammadpur"
+    },
+    {
+        "id": "72",
+        "name": "West Mohammadpur",
+        "bn_name": "পশ্চিম মোহাম্মদপুর",
+        "value": "West Mohammadpur"
+    },
+    {
+        "id": "73",
+        "name": "Goalmari",
+        "bn_name": "গোয়ালমারী",
+        "value": "Goalmari"
+    },
+    {
+        "id": "74",
+        "name": "Maruka",
+        "bn_name": "মারুকা",
+        "value": "Maruka"
+    },
+    {
+        "id": "75",
+        "name": "Betessor",
+        "bn_name": "বিটেশ্বর",
+        "value": "Betessor"
+    },
+    {
+        "id": "76",
+        "name": "Podua",
+        "bn_name": "পদুয়া",
+        "value": "Podua"
+    },
+    {
+        "id": "77",
+        "name": "West Passgacia",
+        "bn_name": "পশ্চিম পাচঁগাছিয়া",
+        "value": "West Passgacia"
+    },
+    {
+        "id": "78",
+        "name": "Baropara",
+        "bn_name": "বারপাড়া",
+        "value": "Baropara"
+    },
+    {
+        "id": "79",
+        "name": "Mathabanga",
+        "bn_name": "মাথাভাঙ্গা",
+        "value": "Mathabanga"
+    },
+    {
+        "id": "80",
+        "name": "Gagutiea",
+        "bn_name": "ঘাগুটিয়া",
+        "value": "Gagutiea"
+    },
+    {
+        "id": "81",
+        "name": "Asadpur",
+        "bn_name": "আছাদপুর",
+        "value": "Asadpur"
+    },
+    {
+        "id": "82",
+        "name": "Chanderchor",
+        "bn_name": "চান্দেরচর",
+        "value": "Chanderchor"
+    },
+    {
+        "id": "83",
+        "name": "Vashania",
+        "bn_name": "ভাষানিয়া",
+        "value": "Vashania"
+    },
+    {
+        "id": "84",
+        "name": "Nilokhi",
+        "bn_name": "নিলখী",
+        "value": "Nilokhi"
+    },
+    {
+        "id": "85",
+        "name": "Garmora",
+        "bn_name": "ঘারমোড়া",
+        "value": "Garmora"
+    },
+    {
+        "id": "86",
+        "name": "Joypur",
+        "bn_name": "জয়পুর",
+        "value": "Joypur"
+    },
+    {
+        "id": "87",
+        "name": "Dulalpur",
+        "bn_name": "দুলালপুর",
+        "value": "Dulalpur"
+    },
+    {
+        "id": "88",
+        "name": "Bakoi",
+        "bn_name": "বাকই",
+        "value": "Bakoi"
+    },
+    {
+        "id": "89",
+        "name": "Mudafargonj",
+        "bn_name": "মুদাফফর গঞ্জ",
+        "value": "Mudafargonj"
+    },
+    {
+        "id": "90",
+        "name": "Kandirpar",
+        "bn_name": "কান্দিরপাড়",
+        "value": "Kandirpar"
+    },
+    {
+        "id": "91",
+        "name": "Gobindapur",
+        "bn_name": "গোবিন্দপুর",
+        "value": "Gobindapur"
+    },
+    {
+        "id": "92",
+        "name": "Uttarda",
+        "bn_name": "উত্তরদা",
+        "value": "Uttarda"
+    },
+    {
+        "id": "93",
+        "name": "Laksam Purba",
+        "bn_name": "লাকসাম পুর্ব",
+        "value": "Laksam Purba"
+    },
+    {
+        "id": "94",
+        "name": "Azgora",
+        "bn_name": "আজগরা",
+        "value": "Azgora"
+    },
+    {
+        "id": "95",
+        "name": "Sreekil",
+        "bn_name": "শ্রীকাইল",
+        "value": "Sreekil"
+    },
+    {
+        "id": "96",
+        "name": "Akubpur",
+        "bn_name": "আকুবপুর",
+        "value": "Akubpur"
+    },
+    {
+        "id": "97",
+        "name": "Andicot",
+        "bn_name": "আন্দিকোট",
+        "value": "Andicot"
+    },
+    {
+        "id": "98",
+        "name": "Purbadair (East)",
+        "bn_name": "পুর্বধৈইর (পুর্ব)",
+        "value": "Purbadair (East)"
+    },
+    {
+        "id": "99",
+        "name": "Purbadair (West)",
+        "bn_name": "পুর্বধৈইর (পশ্চিম)",
+        "value": "Purbadair (West)"
+    },
+    {
+        "id": "100",
+        "name": "Bangara (East)",
+        "bn_name": "বাঙ্গরা (পূর্ব)",
+        "value": "Bangara (East)"
+    }
+]
